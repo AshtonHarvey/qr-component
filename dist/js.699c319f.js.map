@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/js/index.js"],"names":["document","getElementById","innerHTML"],"mappings":";;;AAEA,aAFA,QAAA,sBAEAA,SAASC,eAAe,OAAOC,UAA/B","file":"js.699c319f.js","sourceRoot":"..","sourcesContent":["import \"../scss/index.scss\";\r\n\r\ndocument.getElementById(\"app\").innerHTML = `\r\n<h1>Hello Vanilla!</h1>\r\n<div>\r\n</div>\r\n`;\r\n"]}

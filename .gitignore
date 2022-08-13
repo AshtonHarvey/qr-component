@@ -2,7 +2,6 @@
 .prettierignore
 .codesandbox
 .cache
-dist
 node_modules
 *.sketch
 *.xd
